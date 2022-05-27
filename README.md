@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cory Hangan</h1>
 <h3 align="center">A frontend developer from Queens New York</h3>
 
-- 💬 Ask me about **REACT, HTML, JAVASCRIPT, CSS**
+- 💬 Ask me about: **REACT, HTML, JAVASCRIPT, CSS**
 
-- 📫 How to reach me **coryhangan@gmail.com**
+- 📫 How to reach me: **coryhangan@gmail.com**
 
-- ⚡ Fun fact **I'm a certified scuba diver 🦈**
+- ⚡ Fun fact: **I'm a certified scuba diver 🦈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
