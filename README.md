@@ -1,11 +1,3 @@
-<style type = "text/css">
-  img{
-       display: block;
-       margin-left:auto:
-       margin-right:auto:
-     }
-
-</style>
 
 <h1 align="center">Hi 👋, I'm Cory Hangan</h1>
 
