@@ -1,4 +1,4 @@
-<img margin-left="50px">![IMG_1690](https://user-images.githubusercontent.com/94818557/172448920-2bf6179e-c534-4bdf-b833-5737edcc0025.jpg)</img>
+<img align="center">![IMG_1690](https://user-images.githubusercontent.com/94818557/172448920-2bf6179e-c534-4bdf-b833-5737edcc0025.jpg)</img>
 
 
 
