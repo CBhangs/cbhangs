@@ -1,3 +1,7 @@
+![IMG_1690](https://user-images.githubusercontent.com/94818557/172448920-2bf6179e-c534-4bdf-b833-5737edcc0025.jpg)
+
+
+
 <h1 align="center">Hi 👋, I'm Cory Hangan</h1>
 <h3 align="center">A frontend developer from Queens New York</h3>
 
