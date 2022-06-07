@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Cory Hangan</h1>
+<h1 align="center">Hi 👋, I'm Cory</h1>
 
 <img style="text-align:center;">![IMG_1690](https://user-images.githubusercontent.com/94818557/172450512-abe3196e-ab24-4fd6-9366-e687b4c9b93f.jpg)</img>
 
