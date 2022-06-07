@@ -8,6 +8,7 @@
 
 <h3> My name is Cory Hangan and I'm a recent graduate from General Assembly. I've been in banking and retail my whole working career. I recently decided it wasn't enough anymore, I wanted something more forfilling. So I enrolled in a six month bootcamp for software engineering. It's something I've always been interested in, but was always to afraid to make the commit. Now that I finished the course at General Assembly I'm excited to see what the future holds.</h3>
 
+</br>
 
 - 💬 Ask me about: **REACT, HTML, JAVASCRIPT, CSS**
 
