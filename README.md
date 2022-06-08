@@ -1,16 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Cory</h1>
 
-<img>![IMG_1690](https://user-images.githubusercontent.com/94818557/172450512-abe3196e-ab24-4fd6-9366-e687b4c9b93f.jpg)</img>
-
 <h3 align="center">A frontend developer from Queens New York</h3>
 
 <h1 align="center">About Me</h1>
 
-<h3> My name is Cory Hangan and I'm a recent graduate from General Assembly. In 2021 I decided my old career wasn't enough anymore, and wanted something more forfilling. So I enrolled in a six month bootcamp for software engineering. It's something I've always been interested in, but was always to afraid to make the commit. Now that I finished the course at General Assembly I'm excited to see what the future holds.</h3>
-
-<br />
-<br />
 
 - 💬 Ask me about: **REACT, HTML, JAVASCRIPT, CSS**
 
