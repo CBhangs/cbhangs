@@ -3,8 +3,6 @@
 
 <h3 align="center">A frontend developer from Queens New York</h3>
 
-<h1 align="center">About Me</h1>
-
 
 - 💬 Ask me about: **REACT, HTML, JAVASCRIPT, CSS**
 
