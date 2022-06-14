@@ -8,6 +8,8 @@
 
 - 📫 How to reach me: **coryhangan@gmail.com**
 
+- 🔭 My latest project is https://sneaker-vault.herokuapp.com/ - full CRUD application
+
 - ⚡ Fun fact: **I'm a certified scuba diver 🦈**
 
 <h3 align="left">Connect with me:</h3>
